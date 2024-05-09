@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="background_task_message">Running background task</string>
+</resources>
